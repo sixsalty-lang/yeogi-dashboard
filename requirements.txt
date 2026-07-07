@@ -1,0 +1,7 @@
+# 여기어때 국내여행 인사이트 대시보드 - 설치 목록 (v5)
+streamlit>=1.30
+pandas>=2.0
+numpy>=1.24
+plotly>=5.18
+requests>=2.31
+prophet>=1.1.5
